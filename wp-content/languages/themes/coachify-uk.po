@@ -1,0 +1,1936 @@
+# Translation of Themes - Coachify in Ukrainian
+# This file is distributed under the same license as the Themes - Coachify package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-27 09:30:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Coachify\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Coachify is a lead-generating coaching WordPress theme built for coaches, consultants, therapists, entrepreneurs, mentors, speakers, nutritionists and personal development experts. It is core web vital optimized, SEO-optimized, and schema-friendly to help you rank your website better. Built with performance in mind, this theme is lightning-fast and lightweight. It works flawlessly with popular page builders (Elementor and Gutenberg) to offer flexibility and make editing easier. Packed with tons of customization options such as color options, typography control, sidebar layouts and much more, this theme helps to create a highly engaging and interactive website that captivates your audience. Other notable features include WooCommerce compatibility, LMS compatibility, mobile-responsive design, translation-ready, RTL ready and much more. Check the starter templates here - https://wpcoachify.com/starter-templates/. Looking to build a site to showcase your expertise, build a strong online presence, and grow your business? Look no further. Try Coachify Theme today!"
+msgstr "Coachify - це тема для WordPress, створена для генерації лідів, призначена для тренерів, консультантів, терапевтів, підприємців, наставників, спікерів, харчування та експертів з особистісного розвитку. Вона оптимізована для основних веб-вітальних показників, SEO та сприятлива для схеми, що допомагає вам покращити рейтинг вашого веб-сайту. Розроблена з урахуванням продуктивності, ця тема працює дуже швидко та має невеликий обсяг. Вона працює бездоганно з популярними конструкторами сторінок (Elementor та Gutenberg), що дозволяє забезпечити гнучкість та полегшує редагування. Наповнена безліччю варіантів налаштувань, таких як вибір кольорів, керування типографією, розміщення бічних панелей та багато іншого, ця тема допоможе створити дуже привабливий та взаємодіючий веб-сайт, що захоплює вашу аудиторію. Інші значущі особливості включають сумісність з WooCommerce, LMS, мобільну адаптивність, готовність до перекладу, підтримку RTL та багато іншого. Перевірте стартові шаблони тут - https://wpcoachify.com/starter-templates/. Шукаєте можливість продемонструвати свою експертизу, побудувати міцний онлайн присутність та розвинути свій бізнес? Далі шукати не потрібно. Випробуйте тему Coachify вже сьогодні!"
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Smash Balloon Social Photo Feed"
+msgstr "Фотострічка соцмереж від Smash Balloon"
+
+#: inc/custom-functions.php:605
+msgid "Courses"
+msgstr "Курси"
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Інформацію на запит знайти не вдалося. Можливо, буде корисний пошук по сайту."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: inc/woocommerce-functions.php:115 inc/woocommerce-functions.php:138
+msgid "View your shopping cart"
+msgstr "Переглянути ваш кошик"
+
+#: inc/woocommerce-functions.php:44
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Бічна колонка, що відображається лише на сторінках woocommerce."
+
+#: inc/woocommerce-functions.php:42
+msgid "Shop Sidebar"
+msgstr "Бічна колонка магазину"
+
+#: inc/widgets.php:35
+msgid "Add footer four widgets here."
+msgstr "Додайте сюди віджети четвертого підвалу."
+
+#: inc/widgets.php:33
+msgid "Footer Four"
+msgstr "Четвертий підвал"
+
+#: inc/widgets.php:30
+msgid "Add footer three widgets here."
+msgstr "Додайте сюди віджети третього підвалу."
+
+#: inc/widgets.php:28
+msgid "Footer Three"
+msgstr "Третій підвал"
+
+#: inc/widgets.php:25
+msgid "Add footer two widgets here."
+msgstr "Додайте сюди віджети другого підвалу."
+
+#: inc/widgets.php:23
+msgid "Footer Two"
+msgstr "Другий підвал"
+
+#: inc/widgets.php:20
+msgid "Add footer one widgets here."
+msgstr "Додайте сюди віджети першого підвалу."
+
+#: inc/widgets.php:18
+msgid "Footer One"
+msgstr "Перший підвал"
+
+#: inc/widgets.php:15
+msgid "Default Sidebar"
+msgstr "Бічна колонка за замовчуванням"
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Demo Importer Plus"
+msgstr "Додаткові модулі імпорту демонстраційних данних"
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "Regenerate Thumbnails"
+msgstr "Регенерувати мініатюри"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Сховати деталі"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Показати деталі"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Усі встановлення завершено."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s встановлено успішно."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановлюємо і активуємо плагін %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Усі встановлення та активації завершені."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s встановлений і успішно активований."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Починається процес встановлення та активації. Цей процес може зайняти тривалий час на деяких системах, тому будь ласка, будьте терплячі."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "Встановити %1$s не вдалося."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Сталася помилка при встановленні %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плагіну %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Активація плагіна не вдалася."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "На даний час немає доступних для активації плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Жодних плагінів не обрано для активації. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Немає доступних плагінів для оновлення."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "На даний час немає доступних для встановлення плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Жодних плагінів не обрано для оновлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Жодних плагінів не обрано для встановлення. Жодних дій не виконано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873 dist/dashboard/dashboard.js:7
+msgid "Update"
+msgstr "Оновити"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867 dist/dashboard/dashboard.js:1
+msgid "Install"
+msgstr "Встановити"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення про оновлення від автора плагіна:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Активувати %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Оновити %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Встановити %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Версія"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Плагін"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Немає плагінів для встановлення, оновлення або активації."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Доступна версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Мінімально необхідна версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідомо"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активації <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активації <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступне оновлення <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступні оновлення <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступних оновлень  <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[1] "Встановити <span class=\"count\">(%s)</span>"
+msgstr[2] "Встановити <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Всі <span class=\"count\">(%s)</span>"
+msgstr[1] "Всі <span class=\"count\">(%s)</span>"
+msgstr[2] "Всі <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Оновлення рекомендовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Потребує оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Потрібне оновлення не доступне"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Активувати"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Встановлено, але не активовано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Не встановлено"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Заздалегідь запаковано"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Зовнішнє джерело"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Репозиторій WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Рекомендовані"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Обов’язкове"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "та"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Архів плагіна містить більше одного файлу, але ці файли не в теці."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Будь ласка, зв'яжіться з автором плагіна та попросіть запакувати плагін відповідно до правил WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Архів плагіна не містить теки з бажаним слаґом і перейменування не спрацювало."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr "Натомість встановіть перемикач конфігурації parent_slug."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Потрібне оновлення"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Цей плагін потрібно оновити для сумісності з вашою темою."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Будь ласка, зв'яжіться з адміністратором цього сайту, щоб отримати допомогу."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Необхідно встановити, оновити або активувати ще один або кілька обов'язкових і рекомендованих плагінів."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Сховати це сповіщення"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагіни успішно встановлені і активовані. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагін не активовано. Для цієї теми потрібна новіша версія %s. Будь ласка, оновіть плагін."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ніяких дій не здійснено. Плагін %1$s було вже активовано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Наступний плагін було успішно активовано:"
+msgstr[1] "Наступні плагіни було успішно активовано:"
+msgstr[2] "Наступні плагіни було успішно активовано:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Плагін успішно активовано."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Повернутися до Майстерні"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до розділу встановлення необхідних плагінів"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Почати активацію плагіна"
+msgstr[1] "Почати активацію плагінів"
+msgstr[2] "Почати активацію плагінів"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Почати оновлення плагіна"
+msgstr[1] "Почати оновлення плагінів"
+msgstr[2] "Почати оновлення плагінів"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Почати встановлення плагіну"
+msgstr[1] "Почати встановлення плагінів"
+msgstr[2] "Почати встановлення плагінів"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Наступний рекомендований плагін наразі неактивен: %1$s."
+msgstr[1] "Наступні рекомендовані плагіни наразі неактивні: %1$s."
+msgstr[2] "Наступні рекомендовані плагіни наразі неактивні: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Наступний необхідний плагін наразі неактивен: %1$s."
+msgstr[1] "Наступні необхідні плагіни наразі неактивні: %1$s."
+msgstr[2] "Наступні необхідні плагіни наразі неактивні: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Є оновлення для: %1$s."
+msgstr[1] "Є оновлення для наступних плагінів: %1$s."
+msgstr[2] "Є оновлення для наступних плагінів: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Наступний плагін повинен бути оновлений до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[1] "Наступні плагіни повинні бути оновлені до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+msgstr[2] "Наступні плагіни повинні бути оновлені до останньої версії для забезпечення максимальної сумісності з цією темою: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ця тема рекомендує наступний плагін: %1$s."
+msgstr[1] "Ця тема рекомендує наступні плагіни: %1$s."
+msgstr[2] "Ця тема рекомендує наступні плагіни: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ця тема потребує наступного плагіна: %1$s."
+msgstr[1] "Ця тема потребує наступних плагінів: %1$s."
+msgstr[2] "Ця тема потребує наступних плагінів: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так із API плагіну."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Оновлення плагіну: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Встановлення плагіну: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Встановити плагіни"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Встановити необхідні плагіни"
+
+#. translators: %s: Link to WordPress
+#: inc/template-functions.php:859
+msgid " Powered by %s. "
+msgstr " Працює на %s. "
+
+#: inc/template-functions.php:856
+msgid " Coachify | Developed By "
+msgstr " Coachify | Розроблена "
+
+#: inc/template-functions.php:631 inc/template-functions.php:653
+msgid "Next"
+msgstr "Далі"
+
+#: inc/template-functions.php:630 inc/template-functions.php:652
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/template-functions.php:601
+msgid "Next Article"
+msgstr "Наступна стаття"
+
+#: inc/template-functions.php:577
+msgid "Previous Article"
+msgstr "Попередня стаття"
+
+#: inc/template-functions.php:562
+msgid "Post Navigation"
+msgstr "Навігація по запису"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:520
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редагувати <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:461
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: inc/template-functions.php:214
+msgid "Search"
+msgstr "Пошук"
+
+#. translators: %1$s: Opening heading tag %2$s%3$s: post author in span tag
+#. %4$s: Closing heading tag
+#: inc/template-functions.php:192
+msgid "%1$s %2$s%3$s%4$s"
+msgstr "%1$s %2$s%3$s%4$s"
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти до вмісту (натисніть Enter)"
+
+#: inc/partials.php:129
+msgid "All Rights Reserved. "
+msgstr "Всі права захищені. "
+
+#: inc/partials.php:126
+msgid "&copy; Copyright "
+msgstr "&copy; Авторське право "
+
+#: inc/getting-started/getting-started.php:78
+msgid "Browse Starter Templates"
+msgstr "Перегляньте початкові шаблони"
+
+#: inc/getting-started/getting-started.php:77
+msgid "Settings"
+msgstr "Налаштування"
+
+#: inc/getting-started/getting-started.php:76 dist/dashboard/dashboard.js:1
+msgid "Deactivate"
+msgstr "Вимкнути"
+
+#: inc/getting-started/getting-started.php:75
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876 dist/dashboard/dashboard.js:1
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/getting-started/getting-started.php:74
+msgid "Deactivating"
+msgstr "Деактивація"
+
+#: inc/getting-started/getting-started.php:73
+msgid "Activating"
+msgstr "Активується"
+
+#: inc/getting-started/getting-started.php:65
+msgid "Activate Coachify Starter Templates"
+msgstr "Активувати  Coachify Starter Templates"
+
+#: inc/getting-started/getting-started.php:62
+msgid "Install Coachify Starter Templates"
+msgstr "Встановити Coachify Starter Templates"
+
+#: inc/getting-started/getting-started.php:58
+msgid "Browse Coachify Starter Templates"
+msgstr "Огляд стартових шаблонів Coachify"
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:50
+msgid "Rank Math SEO is one of the most popular and powerful SEO plugins with tons of features to make your site SEO optimized and rank higher on search engines."
+msgstr "Rank Math SEO — це один із найпопулярніших і найпотужніших плагінів для SEO з безліччю функцій, які допоможуть оптимізувати ваш сайт для SEO та підвищити рейтинг у пошукових системах."
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:49
+msgid "Rank Math SEO"
+msgstr "Rank Math SEO"
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:44
+msgid "Addons for Elementor: Mega Elements is a powerful and advanced Elementor add-ons plugin that offers several Elementor widgets to build a beautiful website."
+msgstr "Додатки для Elementor: Mega Elements — це потужний і просунутий плагін додатків Elementor, який пропонує кілька віджетів Elementor для створення красивого веб-сайту."
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:43
+msgid "Mega Elements - Addons for Elementor"
+msgstr "Mega Elements - доповнення для Elementor"
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:38
+msgid "WooCommerce is the world's most popular eCommerce plugin that helps you to create an online store easily."
+msgstr "WooCommerce — найпопулярніший у світі плагін для електронної комерції, який допомагає легко створити інтернет-магазин."
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:37
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:32
+msgid "Elementor is one of the most advanced frontend drag & drop page builders to help you create pixel-perfect websites in less time."
+msgstr "Elementor — це один із найдосконаліших інтерфейсних конструкторів сторінок перетягування та скидання, який допоможе вам створити ідеальні веб-сайти за менший час."
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:31
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/getting-started/ajax-functions.php:288
+msgid "Error, plugin could not be installed, please install manually."
+msgstr "Помилка, не вдалося встановити плагін, будь ласка, встановіть вручну."
+
+#: inc/getting-started/ajax-functions.php:230
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr "Помилка безпеки, Вам потрібні більші права для встановлення плагіна."
+
+#: inc/getting-started/ajax-functions.php:227
+msgid "Security Error, Please reload the page."
+msgstr "Помилка безпеки. Будь ласка, перезавантажте сторінку."
+
+#: inc/getting-started/ajax-functions.php:96
+msgid "Theme"
+msgstr "Theme"
+
+#: inc/extras.php:1240
+msgid "Get Coachify Pro"
+msgstr "Отримати Coachify Pro"
+
+#. translators: 1: found posts.
+#: inc/extras.php:903
+msgctxt "found posts"
+msgid "%s Result"
+msgid_plural "%s Results"
+msgstr[0] "%s Результат"
+msgstr[1] "%s Результати"
+msgstr[2] "%s Результати"
+
+#. translators: %1$s: Number of visible posts %2$s: Total number of available
+#. posts
+#: inc/extras.php:899
+msgid "Showing %1$s of %2$s Results"
+msgstr "Відображення %1$s із %2$s результатів"
+
+#. translators: %1$s: Comment date %2$s: Comment time
+#: inc/extras.php:864
+msgid "%1$s at %2$s"
+msgstr "%1$s о %2$s"
+
+#: inc/extras.php:858
+msgid "Posted on"
+msgstr "Оприлюднено"
+
+#. translators: %s: Link to comment author
+#: inc/extras.php:856
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">каже:</span>"
+
+#: inc/extras.php:851
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує узгодження."
+
+#. translators: %s: Page Number
+#: inc/extras.php:783
+msgid " (Page %s)"
+msgstr " (Сторінка %s)"
+
+#: inc/extras.php:780
+msgid "404 Error - Page Not Found"
+msgstr "Помилка 404 - Сторінка не знайдена"
+
+#. translators: %s: Page Number
+#: inc/extras.php:753
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#: inc/extras.php:667
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:665 inc/extras.php:672
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:665 inc/extras.php:667 inc/extras.php:672
+msgid "m"
+msgstr "M"
+
+#: inc/extras.php:663 inc/extras.php:665 inc/extras.php:667 inc/extras.php:670
+#: inc/extras.php:672 inc/extras.php:675 inc/partials.php:127
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: search query keyword
+#: inc/extras.php:660
+msgid "Search Results for \"%s\""
+msgstr "Пошукові результати для: %s"
+
+#: inc/extras.php:551
+msgid "GO TO BLOG"
+msgstr "ПЕРЕЙТИ ДО БЛОГУ"
+
+#: inc/extras.php:498
+msgid "Recommended For You"
+msgstr "Рекомендовано для ваc"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:471
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sПозначки:%2$s %3$s"
+
+#: inc/extras.php:437
+msgid " min read"
+msgstr " хв читання"
+
+#. translators: %s: post title
+#: inc/extras.php:375
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залишити коментар<span class=\"screen-reader-text\"> до %s</span>"
+
+#. translators: %s: post author.
+#: inc/extras.php:355
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:322
+msgid "Updated on "
+msgstr "Оновлено в "
+
+#: inc/extras.php:211
+msgid "search form close"
+msgstr "закрити форму пошуку"
+
+#: inc/extras.php:203
+msgid "Open Search Form"
+msgstr "Відкрити форму пошуку"
+
+#: inc/extras.php:107
+msgid "Click here to add a menu"
+msgstr "Натисніть тут для додання меню"
+
+#: inc/extras.php:78 inc/extras.php:152
+msgid "Close"
+msgstr "Закрити"
+
+#: inc/extras.php:70 inc/extras.php:141
+msgid "Open"
+msgstr "Відкрито"
+
+#: inc/elementor-compatibility.php:73
+msgid "Tertiary Accent"
+msgstr "Терціарний акцент"
+
+#: inc/elementor-compatibility.php:67
+msgid "Secondary Accent"
+msgstr "Другорядний наголос"
+
+#: inc/elementor-compatibility.php:61
+msgid "Primary Accent"
+msgstr "Основний наголос"
+
+#: inc/elementor-compatibility.php:49
+msgid "Font Color"
+msgstr "Колір Шрифту"
+
+#: inc/defaults.php:424
+msgid "You may also like..."
+msgstr "Вам також має сподобатись..."
+
+#: inc/defaults.php:422
+msgid "About Author"
+msgstr "Про автора"
+
+#: inc/defaults.php:412
+msgid "Read More"
+msgstr "Читати далі"
+
+#: inc/defaults.php:400
+msgid "Home"
+msgstr "Головна"
+
+#: inc/customizer/sections/title.php:50
+msgid "Additional Settings"
+msgstr "Додаткові налаштування"
+
+#: inc/customizer/sections/title.php:38
+msgid "Posts and Pages"
+msgstr "Сторінки і записи"
+
+#: inc/customizer/sections/title.php:27
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: inc/customizer/sections/title.php:16
+msgid "Core"
+msgstr "Ядро"
+
+#: inc/customizer/sections/social-network.php:182
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+#: inc/customizer/sections/social-network.php:164
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer/sections/social-network.php:37
+msgid "Add the links to your social media accounts and display them across your site."
+msgstr "Додайте посилання на свої облікові записи в соціальних мережах і розмістіть їх на своєму сайті."
+
+#: inc/customizer/sections/site.php:503
+msgid "Site Tagline Color"
+msgstr "Колір ключової фрази сайту"
+
+#: inc/customizer/sections/site.php:481
+msgid "Site Title Color"
+msgstr "Колір назви сайту"
+
+#: inc/customizer/sections/site.php:264
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/customizer/sections/site.php:161
+msgid "Site Title Typography"
+msgstr "Типографіка назви сайту"
+
+#: inc/customizer/sections/site.php:111
+msgid "Logo Width"
+msgstr "Ширина логотипу"
+
+#: inc/customizer/sections/site.php:71
+msgid "Hide Site Tagline"
+msgstr "Приховати підпис сайту"
+
+#: inc/customizer/sections/site.php:50
+msgid "Hide Site Title"
+msgstr "Приховати назву сайту"
+
+#: inc/customizer/sections/singlepost.php:538
+msgid "At End"
+msgstr "В кінці"
+
+#: inc/customizer/sections/singlepost.php:537
+msgid "Below Post"
+msgstr "Під записом"
+
+#: inc/customizer/sections/singlepost.php:535
+msgid "Comment Location"
+msgstr "Розташування коментарів"
+
+#: inc/customizer/sections/singlepost.php:514
+msgid "Move the comment form above or below the comments."
+msgstr "Перемістіть форму коментаря вище або нижче коментарів."
+
+#: inc/customizer/sections/singlepost.php:512
+msgid "Below"
+msgstr "Нижче"
+
+#: inc/customizer/sections/singlepost.php:511
+msgid "Above"
+msgstr "Над"
+
+#: inc/customizer/sections/singlepost.php:509
+msgid "Comment Form"
+msgstr "Форма коментаря"
+
+#: inc/customizer/sections/singlepost.php:470
+msgid "%1$sComment Settings%2$s"
+msgstr "%1$sНалаштування коментарів%2$s"
+
+#: inc/customizer/sections/singlepost.php:438
+msgid "Number of Posts"
+msgstr "Кількість записів"
+
+#: inc/customizer/sections/singlepost.php:411
+msgid "Image Border Radius"
+msgstr "Радіус межі зображення"
+
+#: inc/customizer/sections/singlepost.php:358
+msgid "Related Posts Section Title"
+msgstr "Заголовок розділу схожих записів"
+
+#: inc/customizer/sections/singlepost.php:338
+msgid "Show Related Posts"
+msgstr "Показувати подібні записи"
+
+#: inc/customizer/sections/singlepost.php:318
+msgid "%1$sRelated Post Settings%2$s"
+msgstr "%1$sНалаштування пов'язаних публікацій%2$s"
+
+#: inc/customizer/sections/singlepost.php:293
+msgid "Author Section Title"
+msgstr "Заголовок розділу автора"
+
+#: inc/customizer/sections/singlepost.php:273
+msgid "Show Author Box"
+msgstr "Показати блок автора"
+
+#: inc/customizer/sections/singlepost.php:253
+msgid "Show Pagination"
+msgstr "Показати нумерацію сторінок"
+
+#: inc/customizer/sections/singlepost.php:233
+msgid "Show Post Tags"
+msgstr "Показувати позначки запису"
+
+#: inc/customizer/sections/singlepost.php:213
+msgid "Show Category"
+msgstr "Показати категорію"
+
+#: inc/customizer/sections/singlepost.php:180
+msgid "Blog Posts Content Words Reading Speed Per Minute."
+msgstr "Швидкість читання слів вмісту блогу за хвилину."
+
+#: inc/customizer/sections/singlepost.php:178
+msgid "Read Words Per Minute"
+msgstr "Прочитано слів за хвилину"
+
+#: inc/customizer/sections/singlepost.php:154
+msgid "Post Meta Settings"
+msgstr "Налаштування мета-даних для запису"
+
+#: inc/customizer/sections/singlepost.php:15
+msgid "Single Post"
+msgstr "Запис"
+
+#: inc/customizer/sections/singlepage.php:100
+#: inc/customizer/sections/singlepost.php:489
+msgid "Show Comments"
+msgstr "Показати коментарі"
+
+#: inc/customizer/sections/singlepage.php:81
+#: inc/customizer/sections/singlepost.php:55
+msgid "Show Featured Image"
+msgstr "Показувати головне зображення"
+
+#: inc/customizer/sections/singlepage.php:15 inc/template-functions.php:632
+#: inc/template-functions.php:654
+msgid "Page"
+msgstr "Сторінка"
+
+#: inc/customizer/sections/seo.php:121
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Увімкнути показ останньої оновленої дати запису в списку, а також в окремому запису."
+
+#: inc/customizer/sections/seo.php:120
+msgid "Show Last Updated Post Date"
+msgstr "Показати оновлену дату останньої публікації"
+
+#: inc/customizer/sections/seo.php:96
+msgid "Type 3"
+msgstr "Тип 3"
+
+#: inc/customizer/sections/seo.php:92
+msgid "Type 2"
+msgstr "Тип 2"
+
+#: inc/customizer/sections/seo.php:88
+msgid "Type 1"
+msgstr "Тип 1"
+
+#: inc/customizer/sections/seo.php:83
+msgid "Separator"
+msgstr "Роздільник"
+
+#: inc/customizer/sections/seo.php:57
+msgid "Breadcrumb Home Text"
+msgstr "Домашній текст хлібних крихт"
+
+#: inc/customizer/sections/seo.php:37
+msgid "Show Breadcrumb"
+msgstr "Показати навігаційні стежки"
+
+#: inc/customizer/sections/seo.php:17
+msgid "SEO Settings"
+msgstr "Налаштування SEO"
+
+#. translators: %1$s: Link to Sidebar customizer setting
+#: inc/customizer/sections/layout.php:164
+msgid "%1$sClick here%2$s to configure Sidebar settings."
+msgstr "%1$sКлацніть тут%2$s для налаштування параметрів бічної панелі."
+
+#: inc/customizer/sections/layout.php:129
+msgid "This is the general sidebar layout for whole site."
+msgstr "Це загальний макет бічної колонки для всього сайту."
+
+#: inc/customizer/sections/layout.php:128
+msgid "Default Sidebar Layout"
+msgstr "Розміщення бічної колонки за замовчуванням"
+
+#: inc/customizer/sections/layout.php:89
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in respective post."
+msgstr "Це загальний макет бічної колонки для записів. Ви можете змінити макет бічної колонки для окремого запису у відповідному записі."
+
+#: inc/customizer/sections/layout.php:88
+msgid "Post Sidebar Layout"
+msgstr "Розташування бічної колонки для запису"
+
+#: inc/customizer/sections/layout.php:65 inc/customizer/sections/layout.php:105
+#: inc/customizer/sections/layout.php:141
+msgid "Right Sidebar"
+msgstr "Права бічна колонка"
+
+#: inc/customizer/sections/layout.php:61 inc/customizer/sections/layout.php:101
+#: inc/customizer/sections/layout.php:137
+msgid "Left Sidebar"
+msgstr "Ліва бічна колонка"
+
+#: inc/customizer/sections/layout.php:57 inc/customizer/sections/layout.php:97
+msgid "Fullwidth Centered"
+msgstr "Повна ширина по центру"
+
+#: inc/customizer/sections/layout.php:53 inc/customizer/sections/layout.php:93
+#: inc/customizer/sections/layout.php:133
+msgid "Full Width"
+msgstr "Повна ширина"
+
+#: inc/customizer/sections/layout.php:49
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Це загальний макет бічної колонки для сторінок. Ви можете змінити макет бічної колонки для окремої сторінки на відповідній сторінці."
+
+#: inc/customizer/sections/layout.php:48
+msgid "Page Sidebar Layout"
+msgstr "Розташування бічної колонки для сторінки"
+
+#: inc/customizer/sections/layout.php:28
+msgid "Sidebar Layouts"
+msgstr "Макети бічної панелі"
+
+#: inc/customizer/sections/layout.php:20
+msgid "Change different Blog page & General Sidebar layout from here."
+msgstr "Тут можна змінити іншу сторінку блогу та загальний макет бічної панелі."
+
+#. translators: %1$s: Link to BlossomThemes Social Feed plugin admin page
+#: inc/customizer/sections/instagram.php:100
+msgid "You can change the setting BlossomThemes Social Feed %1$sfrom here%2$s."
+msgstr "Ви можете змінити налаштування соціальної стрічки BlossomThemes %1$sтут%2$s."
+
+#: inc/customizer/sections/instagram.php:77
+msgid "Show Instagram Section only on Homepage"
+msgstr "Відображати розділ Instagram лише на головній сторінці"
+
+#: inc/customizer/sections/instagram.php:76
+msgid "Instagram on Homepage"
+msgstr "Instagram на головній сторінці"
+
+#: inc/customizer/sections/instagram.php:57
+msgid "Add shortcode for your instagram profile below:"
+msgstr "Додайте шорткод для вашого профілю Instagram:"
+
+#: inc/customizer/sections/instagram.php:55
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/customizer/sections/instagram.php:38
+msgid "Enable to show Instagram Section throughout your site."
+msgstr "Ввімкніть показ розділу Instagram на всьому сайті."
+
+#: inc/customizer/sections/instagram.php:37
+msgid "Instagram Section"
+msgstr "Розділ Instagram"
+
+#: inc/customizer/sections/instagram.php:16
+msgid "Instagram Settings"
+msgstr "Налаштування Instagram"
+
+#: inc/customizer/sections/info.php:93
+msgid "VIEW PRO VERSION"
+msgstr "ПЕРЕГЛЯНУТИ ВЕРСІЮ PRO"
+
+#. translators: %1$s: Link to Button Color customizer setting
+#: inc/customizer/sections/colors.php:196
+msgid "You can change button colors from %1$s here. %2$s"
+msgstr "Ви можете змінити кольори кнопок %1$s тут. %2$s"
+
+#: inc/customizer/sections/colors.php:175
+msgid "Site Background"
+msgstr "Фон сайту"
+
+#: inc/custom-functions.php:190 inc/customizer/sections/colors.php:154
+msgid "Tertiary Accent Color"
+msgstr "Колір терціарного акценту"
+
+#: inc/custom-functions.php:184 inc/customizer/sections/colors.php:133
+msgid "Secondary Accent Color"
+msgstr "Колір вторинного акценту"
+
+#: inc/custom-functions.php:178 inc/customizer/sections/colors.php:112
+msgid "Primary Accent Color"
+msgstr "Колір основного акценту"
+
+#: inc/customizer/sections/colors.php:91
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/sections/colors.php:70
+msgid "Font"
+msgstr "Шрифт"
+
+#: inc/customizer/sections/blogpage.php:321
+msgid "Read More Label"
+msgstr "Мітка читати далі"
+
+#: inc/customizer/sections/blogpage.php:300
+#: inc/customizer/sections/singlepost.php:159
+msgid "Reading Time"
+msgstr "Час читання"
+
+#: inc/customizer/sections/blogpage.php:298
+#: inc/customizer/sections/singlepost.php:157
+msgid "Date"
+msgstr "Date"
+
+#: inc/customizer/sections/blogpage.php:297
+#: inc/customizer/sections/singlepost.php:156
+msgid "Author"
+msgstr "Author"
+
+#: inc/customizer/sections/blogpage.php:295
+msgid "Meta Order"
+msgstr "Порядок мета-даних"
+
+#: inc/customizer/sections/blogpage.php:263
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Автоматично генерується довжина уривку (в словах)."
+
+#: inc/customizer/sections/blogpage.php:262
+msgid "Excerpt Length"
+msgstr "Довжина уривка"
+
+#: inc/customizer/sections/blogpage.php:241
+msgid "Full Content"
+msgstr "Повний вміст"
+
+#: inc/customizer/sections/blogpage.php:240
+msgid "Excerpt"
+msgstr "Уривок"
+
+#: inc/customizer/sections/blogpage.php:238
+msgid "Enable Blog Excerpt"
+msgstr "Увімкнути уривок блогу"
+
+#: inc/customizer/sections/blogpage.php:218
+msgid "%1$sPosts Settings%2$s"
+msgstr "%1$sНалаштування публікацій%2$s"
+
+#: inc/customizer/sections/blogpage.php:190
+#: inc/customizer/sections/singlepost.php:125
+msgid "Border Radius"
+msgstr "Радіус межі"
+
+#: inc/customizer/sections/blogpage.php:142
+#: inc/customizer/sections/singlepost.php:76
+msgid "This setting crops the featured image to recommended size. If set to false, it displays the image exactly as uploaded."
+msgstr "Цей параметр обрізає представлене зображення до рекомендованого розміру. Якщо встановлено значення false, зображення відображатиметься точно так, як було завантажено."
+
+#: inc/customizer/sections/blogpage.php:141
+#: inc/customizer/sections/singlepost.php:75
+msgid "Crop Featured Image"
+msgstr "Обрізати головне зображення"
+
+#: inc/customizer/sections/blogpage.php:121
+#: inc/customizer/sections/singlepost.php:35
+msgid "%1$sImage Settings%2$s"
+msgstr "%1$sНалаштування зображень%2$s"
+
+#: inc/customizer/sections/blogpage.php:96
+msgid "Horizontal Alignment"
+msgstr "Горизонтальне вирівнювання"
+
+#: inc/customizer/sections/blogpage.php:55
+msgid "Show Title"
+msgstr "Показати Заголовок"
+
+#: inc/customizer/sections/blogpage.php:35
+msgid "%1$sPage Title%2$s"
+msgstr "%1$sЗаголовок сторінки%2$s"
+
+#: inc/customizer/sections/blogpage.php:15
+msgid "Blog Page"
+msgstr "Сторінка блогу"
+
+#: inc/customizer/sections/archive.php:143
+#: inc/customizer/sections/blogpage.php:99
+#: inc/customizer/sections/singlepage.php:59
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/sections/archive.php:140
+#: inc/customizer/sections/singlepage.php:56
+msgid "Title Alignment"
+msgstr "Вирівнювання заголовка"
+
+#: inc/customizer/sections/archive.php:119
+msgid "Show Counts"
+msgstr "Показати лічильники"
+
+#: inc/customizer/sections/archive.php:99
+msgid "Hide Archive Prefix"
+msgstr "Приховати префікс архіву"
+
+#: inc/customizer/sections/archive.php:79
+#: inc/customizer/sections/blogpage.php:75
+msgid "Show Description"
+msgstr "Показати опис"
+
+#: inc/customizer/sections/archive.php:59
+#: inc/customizer/sections/singlepage.php:35
+msgid "Page Title"
+msgstr "Назва сторінки"
+
+#: inc/customizer/sections/archive.php:34
+msgid "Header Background Image"
+msgstr "Зображення фону заголовка"
+
+#: inc/customizer/sections/archive.php:15
+msgid "Archive"
+msgstr "Архів"
+
+#: inc/customizer/sections/appearance.php:2626
+msgid "Click the button to reset the local fonts cache."
+msgstr "Натисніть кнопку, щоб скинути локальний кеш шрифтів."
+
+#: inc/customizer/sections/appearance.php:2625
+#: inc/customizer/sections/appearance.php:2631
+msgid "Flush Local Fonts Cache"
+msgstr "Очистити кеш локальних шрифтів"
+
+#: inc/customizer/sections/appearance.php:2608
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "Передзавантаження шрифтів Google прискорить швидкість вашого веб-сайту."
+
+#: inc/customizer/sections/appearance.php:2607
+msgid "Preload Local Fonts"
+msgstr "Передзавантажити локальні шрифти"
+
+#: inc/customizer/sections/appearance.php:2586
+msgid "This will load Google fonts from your server to speed up your site and make it GDPR compliant."
+msgstr "Це дозволить завантажувати шрифти Google з вашого сервера, щоб прискорити роботу сайту і забезпечити відповідність вимогам Закону про загальний регламент збору та захисту даних."
+
+#: inc/customizer/sections/appearance.php:2585
+msgid "Load Google Fonts Locally"
+msgstr "Завантажити шрифти Google локально"
+
+#: inc/customizer/sections/appearance.php:2273
+msgid "Accent Font"
+msgstr "Акцентований шрифт"
+
+#: inc/customizer/sections/appearance.php:1956
+msgid "H6 Heading"
+msgstr "Заголовок H6"
+
+#: inc/customizer/sections/appearance.php:1636
+msgid "H5 Heading"
+msgstr "Заголовок H5"
+
+#: inc/customizer/sections/appearance.php:1316
+msgid "H4 Heading"
+msgstr "Заголовок H4"
+
+#: inc/customizer/sections/appearance.php:994
+msgid "H3 Heading"
+msgstr "Заголовок H3"
+
+#: inc/customizer/sections/appearance.php:674
+msgid "H2 Heading"
+msgstr "Заголовок H2"
+
+#: inc/customizer/sections/appearance.php:354
+msgid "H1 Heading"
+msgstr "Заголовок H1"
+
+#: inc/customizer/sections/appearance.php:38
+msgid "Base Font"
+msgstr "Основний шрифт"
+
+#: inc/customizer/sections/appearance.php:17 dist/dashboard/dashboard.js:1
+msgid "Typography"
+msgstr "Типографіка"
+
+#. translators: %1$s: Link to Social Media customizer setting
+#: inc/customizer/panels/header/social-media.php:110
+msgid "You can add links to your social media profiles %1$s here. %2$s"
+msgstr "Ви можете додати посилання на ваші профілі в соціальних мережах %1$s тут. %2$s"
+
+#: inc/customizer/panels/header/social-media.php:88
+#: inc/customizer/sections/social-network.php:218
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/customizer/panels/header/social-media.php:87
+#: inc/customizer/sections/social-network.php:200
+msgid "Viber"
+msgstr "Viber"
+
+#: inc/customizer/panels/header/social-media.php:86
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/customizer/panels/header/social-media.php:85
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/panels/header/social-media.php:84
+#: inc/customizer/sections/social-network.php:146
+msgid "TikTok"
+msgstr "TikTok"
+
+#: inc/customizer/panels/header/social-media.php:83
+#: inc/customizer/sections/social-network.php:128
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/panels/header/social-media.php:82
+#: inc/customizer/sections/social-network.php:110
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/panels/header/social-media.php:81
+#: inc/customizer/sections/social-network.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/panels/header/social-media.php:80
+#: inc/customizer/sections/social-network.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/panels/header/social-media.php:79
+#: inc/customizer/sections/social-network.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/panels/header/social-media.php:77
+#: inc/customizer/sections/social-network.php:18 dist/dashboard/dashboard.js:1
+msgid "Social Media"
+msgstr "Соціальні медіа"
+
+#: inc/customizer/panels/header/social-media.php:57
+msgid "Open in a new tab"
+msgstr "Відкрити у новій вкладці"
+
+#: inc/customizer/panels/header/social-media.php:38
+msgid "Show Social Media"
+msgstr "Показати соціальні медіа"
+
+#: inc/customizer/panels/header/social-media.php:17
+msgid "Social Media Settings"
+msgstr "Налаштування зображень соц. мережі"
+
+#: inc/customizer/panels/header/header-contact.php:60
+msgid "Email Address"
+msgstr "Електронна скринька"
+
+#: inc/customizer/panels/header/header-contact.php:36
+msgid "Phone Number"
+msgstr "Номер телефону"
+
+#: inc/customizer/panels/header/header-contact.php:15
+msgid "Contact Settings"
+msgstr "Налаштування Контактів"
+
+#: inc/customizer/panels/header/header-button.php:307
+msgid "Border Color"
+msgstr "Колір меж"
+
+#: inc/customizer/panels/header/header-button.php:135
+msgid "Enable to open the link in a new tab."
+msgstr "Увімкніть відкриття посилання в новій вкладці."
+
+#: inc/customizer/panels/header/header-button.php:134
+msgid "Open in new tab"
+msgstr "Відкрити в новій вкладці"
+
+#: inc/customizer/panels/header/header-button.php:113
+msgid "Button Link "
+msgstr "Посилання кнопки "
+
+#: inc/customizer/panels/header/header-button.php:74
+msgid "Show Button"
+msgstr "Показати кнопку"
+
+#: inc/customizer/panels/header/header-button.php:17
+msgid "Header Button"
+msgstr "Кнопка заголовка"
+
+#: inc/customizer/panels/header/general-header.php:211
+msgid "Dropdown Width"
+msgstr "Ширина розкривного списку"
+
+#: inc/customizer/panels/header/general-header.php:191
+msgid "Stretch Menu"
+msgstr "Розтягнутий меню"
+
+#: inc/customizer/panels/header/general-header.php:157
+msgid "Items Spacing"
+msgstr "Відступи між елементами"
+
+#: inc/customizer/panels/header/general-header.php:137
+msgid "%1$sNavigation Menu Settings%2$s"
+msgstr "%1$sНалаштування меню навігації%2$s"
+
+#: inc/customizer/panels/header/general-header.php:116
+msgid "Show Cart"
+msgstr "Показати кошик"
+
+#: inc/customizer/panels/header/general-header.php:94
+msgid "Header Search"
+msgstr "Пошук в заголовку"
+
+#: inc/customizer/panels/header/general-header.php:60
+msgid "Custom Header Width"
+msgstr "Призначена ширина заголовку"
+
+#: inc/customizer/panels/header/general-header.php:41
+msgid "Custom"
+msgstr "Налаштування"
+
+#: inc/customizer/panels/header/general-header.php:40
+msgid "Fullwidth"
+msgstr "Повна ширина"
+
+#: inc/customizer/panels/header/general-header.php:39
+msgid "Boxed"
+msgstr "Вибіркова ширина"
+
+#: inc/customizer/panels/header/general-header.php:37
+msgid "Header Width"
+msgstr "Ширина заголовка"
+
+#. translators: %1$s: Link to Sidebar customizer setting
+#: inc/customizer/panels/general/sidebar.php:157
+msgid "You can select the default sidebar layout from %1$s here. %2$s"
+msgstr "Ви можете вибрати типовий макет бічної панелі %1$s тут. %2$s"
+
+#: inc/customizer/panels/general/sidebar.php:137
+msgid "Last Widget Sticky"
+msgstr "Останній прикріплений віджет"
+
+#: inc/customizer/panels/general/sidebar.php:88
+msgid "Widget Spacing"
+msgstr "Відступ між віджетами"
+
+#: inc/customizer/panels/general/sidebar.php:38
+msgid "Sidebar Width"
+msgstr "Ширина бічної панелі"
+
+#: inc/customizer/panels/general/sidebar.php:18 inc/widgets.php:13
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: inc/customizer/panels/general/scroll-to-top.php:75
+msgid "Icon Size"
+msgstr "Розмір піктограми"
+
+#: inc/customizer/panels/general/scroll-to-top.php:37
+msgid "Show Scroll to Top"
+msgstr "Показати кнопку \"Прокрутити вгору\""
+
+#: inc/customizer/panels/general/scroll-to-top.php:18
+msgid "Scroll to Top"
+msgstr "Прокрутка вгору"
+
+#: inc/customizer/panels/general/error.php:107
+msgid "Posts per row"
+msgstr "Пости на рядок"
+
+#: inc/customizer/panels/general/error.php:74
+msgid "Number of posts"
+msgstr "Кількість публікацій"
+
+#: inc/customizer/panels/general/error.php:55
+msgid "Show Posts"
+msgstr "Показати публікації"
+
+#: inc/customizer/panels/general/error.php:35
+msgid "404 Image"
+msgstr "Зображення 404"
+
+#: inc/customizer/panels/general/error.php:16
+msgid "404 Page"
+msgstr "404 Сторінка"
+
+#: inc/customizer/panels/general/container.php:123
+msgid "Fullwidth Centered Max-width"
+msgstr "Повна ширина, вирівняна по центру, максимальна ширина"
+
+#: inc/customizer/panels/general/container.php:56
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: inc/customizer/panels/general/container.php:18
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer/panels/general/button.php:590
+msgid "%1$sButton Hover State%1$s"
+msgstr "%1$sСтан наведення на кнопку%1$s"
+
+#: inc/customizer/panels/general/button.php:570
+#: inc/customizer/panels/general/button.php:649
+msgid "Border"
+msgstr "Межа"
+
+#: inc/customizer/panels/general/button.php:550
+#: inc/customizer/panels/general/button.php:629
+#: inc/customizer/panels/header/header-button.php:287
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/panels/general/button.php:511
+msgid "%1$sButton Initial State%2$s"
+msgstr "%1$sСтан кнопки за замовчуванням%2$s"
+
+#: inc/customizer/panels/general/button.php:430
+#: inc/customizer/sections/appearance.php:275
+#: inc/customizer/sections/appearance.php:593
+#: inc/customizer/sections/appearance.php:913
+#: inc/customizer/sections/appearance.php:1233
+#: inc/customizer/sections/appearance.php:1555
+#: inc/customizer/sections/appearance.php:1875
+#: inc/customizer/sections/appearance.php:2195
+#: inc/customizer/sections/appearance.php:2510
+#: inc/customizer/sections/site.php:402
+msgid "Letter Spacing"
+msgstr "Відступ між літерами"
+
+#: inc/customizer/panels/general/button.php:362
+#: inc/customizer/sections/appearance.php:207
+#: inc/customizer/sections/appearance.php:525
+#: inc/customizer/sections/appearance.php:845
+#: inc/customizer/sections/appearance.php:1165
+#: inc/customizer/sections/appearance.php:1487
+#: inc/customizer/sections/appearance.php:1807
+#: inc/customizer/sections/appearance.php:2127
+#: inc/customizer/sections/appearance.php:2442
+#: inc/customizer/sections/site.php:333
+msgid "Line Height"
+msgstr "Висота рядка"
+
+#: inc/customizer/panels/general/button.php:295
+#: inc/customizer/sections/appearance.php:141
+#: inc/customizer/sections/appearance.php:457
+#: inc/customizer/sections/appearance.php:777
+#: inc/customizer/sections/appearance.php:1097
+#: inc/customizer/sections/appearance.php:1419
+#: inc/customizer/sections/appearance.php:1739
+#: inc/customizer/sections/appearance.php:2059
+#: inc/customizer/sections/appearance.php:2376
+msgid "Size"
+msgstr "Розмір"
+
+#: inc/customizer/panels/general/button.php:192
+msgid "Button Typography"
+msgstr "Типографіка кнопки"
+
+#: inc/customizer/panels/general/button.php:161
+#: inc/customizer/panels/header/header-button.php:240
+msgid "Button Padding"
+msgstr "Відступ кнопки"
+
+#: inc/customizer/panels/general/button.php:104
+#: inc/customizer/panels/header/header-button.php:183
+msgid "Button Roundness"
+msgstr "Закругленість кнопки"
+
+#: inc/customizer/panels/general/button.php:18
+#: inc/customizer/panels/header/header-button.php:91
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/panels/footer/footer.php:67
+msgid "Footer Copyright Text"
+msgstr "Налаштування копірайту підвалу"
+
+#: inc/customizer/panels/footer/footer.php:16
+msgid "Footer Copyright"
+msgstr "Авторське право в підвалі"
+
+#: inc/customizer/panels/footer/footer-widgets.php:313
+#: inc/customizer/panels/footer/footer.php:115
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: inc/customizer/panels/footer/footer-widgets.php:292
+msgid "Widget Title Color"
+msgstr "Колір заголовку віджета"
+
+#: inc/customizer/panels/footer/footer-widgets.php:271
+#: inc/customizer/panels/footer/footer.php:93
+#: inc/customizer/panels/general/button.php:530
+#: inc/customizer/panels/general/button.php:609
+#: inc/customizer/panels/header/header-button.php:267
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: inc/customizer/panels/footer/footer-widgets.php:222
+msgid "Add the spacing above the footer area."
+msgstr "Додати відступ над областю підвалу."
+
+#: inc/customizer/panels/footer/footer-widgets.php:221
+msgid "Top Spacing"
+msgstr "Відступ зверху"
+
+#. translators: %1$s: Link to Footer customizer setting
+#: inc/customizer/panels/footer/footer-widgets.php:182
+msgid "%1$sClick here%2$s to add widget to the footer."
+msgstr "%1$sНатисніть тут%2$s, щоб додати віджет у підвал."
+
+#: inc/customizer/panels/footer/footer-widgets.php:141
+msgid "Layout Four"
+msgstr "Макет чотири"
+
+#: inc/customizer/panels/footer/footer-widgets.php:119
+msgid "Layout Three"
+msgstr "Макет три"
+
+#: inc/customizer/panels/footer/footer-widgets.php:97
+msgid "Layout Two"
+msgstr "Макет два"
+
+#: inc/customizer/panels/footer/footer-widgets.php:75
+msgid "Layout One"
+msgstr "Макет один"
+
+#: inc/customizer/panels/footer/footer-widgets.php:71
+msgid "Choose the footer layouts for your site."
+msgstr "Виберіть макет підвалу для вашого сайту."
+
+#: inc/customizer/panels/footer/footer-widgets.php:70
+#: inc/customizer/sections/layout.php:17
+msgid "Layouts"
+msgstr "Макети"
+
+#: inc/customizer/panels/footer/footer-widgets.php:42
+#: inc/customizer/panels/footer/footer.php:43
+#: inc/customizer/panels/general/button.php:44
+#: inc/customizer/panels/header/header-button.php:45
+msgid "Design"
+msgstr "Дизайн"
+
+#: inc/customizer/panels/footer/footer-widgets.php:16
+msgid "Footer Widgets"
+msgstr "Віджети підвалу"
+
+#: inc/customizer/header.php:18
+msgid "Customizer header settings from here."
+msgstr "Налаштування заголовка в режимі налаштувань."
+
+#: inc/customizer/header.php:15
+msgid "Main Header"
+msgstr "Головний заголовок"
+
+#: inc/customizer/general.php:18
+msgid "Customize Container, Sidebar, Button and Scroll to Top."
+msgstr "Налаштувати контейнер, бічну панель, кнопку і \"Прокрутити вгору\"."
+
+#: inc/customizer/general.php:17
+#: inc/customizer/panels/footer/footer-widgets.php:35
+#: inc/customizer/panels/footer/footer.php:35
+#: inc/customizer/panels/general/button.php:36
+#: inc/customizer/panels/header/general-header.php:16
+#: inc/customizer/panels/header/header-button.php:36
+msgid "General"
+msgstr "Загальні"
+
+#: inc/customizer/footer.php:18
+msgid "Customizer footer settings from here."
+msgstr "Налаштування підвалу в режимі налаштувань."
+
+#: inc/customizer/footer.php:15
+msgid "Footer"
+msgstr "Підвал"
+
+#: inc/customizer/customizer.php:112
+msgid "Successfully Flushed!"
+msgstr "Успішно промито!"
+
+#: inc/custom-functions.php:718
+msgid "Dismiss"
+msgstr "Сховати"
+
+#: inc/custom-functions.php:717
+msgid "Go to the getting started."
+msgstr "Перейдіть до початку роботи."
+
+#. translators: %1$s: Theme Name
+#: inc/custom-functions.php:716
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s зараз встановлено та готове до використання. Клацніть нижче, щоб переглянути документацію теми, додатки для встановлення та інші деталі, щоб розпочати роботу."
+
+#: inc/custom-functions.php:713
+msgid "Congratulations!"
+msgstr "Вітання!"
+
+#: inc/custom-functions.php:642
+msgid "Browsing Day"
+msgstr "Перегляд за день"
+
+#: inc/custom-functions.php:639
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/custom-functions.php:634
+msgid "Browsing Month"
+msgstr "Перегляд за місяць"
+
+#: inc/custom-functions.php:631
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/custom-functions.php:626
+msgid "Browsing Year"
+msgstr "Перегляд за рік"
+
+#: inc/custom-functions.php:623
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/custom-functions.php:618
+msgid "Browsing Tag"
+msgstr "Перегляд за тегом"
+
+#: inc/custom-functions.php:610
+msgid "Browsing Category"
+msgstr "Перегляд за категорією"
+
+#: inc/custom-functions.php:559 inc/customizer/sections/blogpage.php:299
+#: inc/customizer/sections/singlepost.php:158
+msgid "Comment"
+msgstr "Коментар"
+
+#: inc/custom-functions.php:546 dist/dashboard/dashboard.js:7
+msgid "Website"
+msgstr "Сайт"
+
+#: inc/custom-functions.php:544
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:544
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: inc/custom-functions.php:542
+msgid "Name*"
+msgstr "Ім’я*"
+
+#: inc/custom-functions.php:542
+msgid "Name"
+msgstr "Ім’я"
+
+#: inc/custom-functions.php:196
+msgid "Site Background Color"
+msgstr "Колір фону сайту"
+
+#: inc/custom-functions.php:172 inc/elementor-compatibility.php:55
+msgid "Heading Color"
+msgstr "Колір заголовка"
+
+#: inc/custom-functions.php:166
+msgid "Body Font Color"
+msgstr "Колір шрифту тексту"
+
+#: inc/custom-functions.php:160 inc/customizer/sections/colors.php:49
+#: inc/elementor-compatibility.php:43
+msgid "Secondary Color"
+msgstr "Вторинний колір"
+
+#: inc/custom-functions.php:154 inc/customizer/sections/colors.php:28
+#: inc/elementor-compatibility.php:37
+msgid "Primary Color"
+msgstr "Основний колір"
+
+#: inc/custom-functions.php:46 inc/custom-functions.php:131
+msgid "Primary"
+msgstr "Головна"
+
+#: inc/custom-controls/typography/class-typography-control.php:44
+msgid "Variants"
+msgstr "Варіанти"
+
+#: inc/custom-controls/typography/class-typography-control.php:42
+msgid "Transform"
+msgstr "Перетворення"
+
+#: inc/custom-controls/typography/class-typography-control.php:41
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:40
+msgid "Font Family"
+msgstr "Шрифт"
+
+#: inc/custom-controls/typography/class-typography-control.php:37
+msgid "Google fonts"
+msgstr "Шрифти Google"
+
+#: inc/custom-controls/typography/class-typography-control.php:36
+msgid "Custom fonts"
+msgstr "Власні шрифти"
+
+#: inc/custom-controls/typography/class-typography-control.php:35
+msgid "System fonts"
+msgstr "Системні шрифти"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:43
+#: inc/customizer/sections/archive.php:142
+#: inc/customizer/sections/blogpage.php:98
+#: inc/customizer/sections/singlepage.php:58
+msgid "Left"
+msgstr "Зліва"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:42
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:41
+#: inc/customizer/sections/archive.php:144
+#: inc/customizer/sections/blogpage.php:100
+#: inc/customizer/sections/singlepage.php:60
+msgid "Right"
+msgstr "Праворуч"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:40
+msgid "Top"
+msgstr "Верх"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:38
+msgid "Un-link values"
+msgstr "Розірвати зв'язок значень"
+
+#: inc/custom-controls/spacing/class-spacing-control.php:37
+msgid "Link values"
+msgstr "Значення посилання"
+
+#: inc/custom-controls/range/class-range-control.php:62
+msgid "Reset"
+msgstr "Скидання"
+
+#: inc/custom-controls/range/class-range-control.php:61
+#: inc/custom-controls/spacing/class-spacing-control.php:46 inc/extras.php:149
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: inc/custom-controls/range/class-range-control.php:60
+#: inc/custom-controls/spacing/class-spacing-control.php:45
+msgid "Tablet"
+msgstr "Планшет"
+
+#: inc/custom-controls/range/class-range-control.php:59
+#: inc/custom-controls/spacing/class-spacing-control.php:44
+msgid "Desktop"
+msgstr "Робочий стіл"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#. translators: 1: comment count number.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s коментар"
+msgstr[1] "%1$s коментаря"
+msgstr[2] "%1$s коментарів"
+
+#: 404.php:35
+msgid "GO TO HOMEPAGE"
+msgstr "ПЕРЕЙТИ НА ГОЛОВНУ СТОРІНКУ"
+
+#: 404.php:33
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed. Go back to home and explore again."
+msgstr "Сторінку, яку ви шукаєте, можуть бути переміщеною, видаленою або, можливо, ніколи не існувало. Поверніться на головну сторінку та продовжуйте вивчати."
+
+#: 404.php:31
+msgid "Page Not Found!"
+msgstr "Сторінку не знайдено!"
+
+#: 404.php:29
+msgid "404 ERROR"
+msgstr "ПОМИЛКА 404"
+
+#. Theme Name of the theme
+#. Author of the theme
+#: inc/getting-started/getting-started.php:18
+#: inc/getting-started/getting-started.php:19 inc/template-functions.php:857
+#: dist/dashboard/dashboard.js:7
+msgid "Coachify"
+msgstr "Coachify"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wpcoachify.com/about/"
+msgstr "https://wpcoachify.com/about/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wpcoachify.com/"
+msgstr "https://wpcoachify.com/"
